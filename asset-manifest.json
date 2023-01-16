@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Landing/static/css/main.6acb0435.css",
+    "main.js": "/React-Landing/static/js/main.40c1a719.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-Landing/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Main_photo.png": "/React-Landing/static/media/Main_photo.6c63842f6184186697bc.png",
+    "static/media/second-student.png": "/React-Landing/static/media/second-student.093cf997cb279514bb00.png",
+    "static/media/third-event.png": "/React-Landing/static/media/third-event.95036a4bb53a512883f0.png",
+    "static/media/first-event.png": "/React-Landing/static/media/first-event.2666a9020db3dd78eeb8.png",
+    "static/media/first-student.png": "/React-Landing/static/media/first-student.a2b014774c7f12891dd6.png",
+    "static/media/second-event.png": "/React-Landing/static/media/second-event.66146312ef434f8510be.png",
+    "static/media/Subscribe.png": "/React-Landing/static/media/Subscribe.18e35649b6c03a13f410.png",
+    "index.html": "/React-Landing/index.html",
+    "main.6acb0435.css.map": "/React-Landing/static/css/main.6acb0435.css.map",
+    "main.40c1a719.js.map": "/React-Landing/static/js/main.40c1a719.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-Landing/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6acb0435.css",
+    "static/js/main.40c1a719.js"
+  ]
+}
