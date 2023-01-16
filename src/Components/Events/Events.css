@@ -1,0 +1,7 @@
+.events{
+    /* width: 90%; */
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}

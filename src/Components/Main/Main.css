@@ -1,0 +1,89 @@
+main {
+    max-width: 90%;
+    margin: auto;
+}
+
+.info-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.info-block h1 {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    color: #151517;
+}
+
+.info-block p {
+    width: 40%;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #151517;
+}
+
+img {
+    width: 100%;
+}
+
+.ticket-block {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin-bottom: 10%;
+}
+
+.ticket-block h1 {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    color: #151517;
+}
+
+.tickets {
+    width: 50%;
+}
+
+.date {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+
+.tickets p {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #424245;
+}
+
+.date p {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #151517;
+}
+
+.ticket-block button {
+    background: #1070FF;
+    font-family: 'Raleway', sans-serif;
+    border-radius: 4px;
+    border: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    height: 25%;
+    width: 25%;
+}

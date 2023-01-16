@@ -1,0 +1,53 @@
+#subscribe {
+    width: 100%;
+    background-image: url(../../assets/img/Subscribe.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subscribe-wrapper{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    box-sizing: border-box;
+}
+.subscribe-wrapper h1 {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    text-align: center;
+    color: #000000;
+}
+
+.subscribe-wrapper p {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #000000;
+}
+
+.subscribe-wrapper form {
+    display: flex;
+    justify-content: center;
+}
+
+#text {
+    box-shadow: inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1);
+    border-radius: 8px;
+    width: 30%;
+    height: 40px;
+    border: none;
+}
+
+#btn {
+    font-family: 'Raleway', sans-serif;
+    background: #1070FF;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFF;
+    border: none;
+}

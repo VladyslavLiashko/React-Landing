@@ -1,0 +1,41 @@
+.speakers-block {
+    width: 30%;
+    box-sizing: border-box;
+}
+.speakers-block-wrapper {
+    max-width: 90%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.speakers-block h1 {
+    font-family: 'Raleway', sans-serif;
+    margin-top: 110%;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    color: #FFFFFF;
+    padding-bottom: 5%;
+    box-sizing: border-box;
+    border-bottom: 0.5px solid #FFFFFF;
+}
+
+.student-desc {
+    display: flex;
+    justify-content: space-between;
+}
+
+.student-desc p {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-top: 0;
+}
+.one {
+    background-image: url("../../../../assets/img/first-student.png");
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+}

@@ -1,0 +1,101 @@
+section {
+    width: 90%;
+    margin: auto;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+header h1 {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    color: #151517;
+}
+
+header p {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #424245;
+}
+
+.speakers-wrapper {
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3%;
+}
+
+.speakers-block {
+    width: 30%;
+    box-sizing: border-box;
+}
+
+/* .speakers-block-wrapper {
+    max-width: 90%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.speakers-block h1 {
+    font-family: 'Raleway', sans-serif;
+    margin-top: 110%;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    color: #FFFFFF;
+    padding-bottom: 5%;
+    box-sizing: border-box;
+    border-bottom: 0.5px solid #FFFFFF;
+}
+
+.student-desc {
+    display: flex;
+    justify-content: space-between;
+}
+
+.student-desc p {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-top: 0;
+} */
+
+.nav {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100%;
+}
+
+.nav img {
+    width: 45%;
+}
+
+.info p {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #151517;
+}
+
+/* .one {
+    background-image: url("../../assets/img/first-student.png");
+    background-repeat: no-repeat;
+} */
+
+/* .two {
+    background-image: url("../../assets/img/second-student.png");
+    background-repeat: no-repeat;
+} */

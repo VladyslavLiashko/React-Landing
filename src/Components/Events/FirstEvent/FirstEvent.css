@@ -1,0 +1,48 @@
+.event-block {
+    width: 30%;
+    box-sizing: border-box;
+    transition-property: transform;
+    transition-duration: 1s;
+}
+.event-block:hover {
+    transform: perspective(500px) translateZ(50px);
+}
+
+.first {
+    background-image: url(../../../assets/img/first-event.png);
+    background-size: 100%;
+}
+
+.event-wrapper {
+    width: 90%;
+    margin: auto;
+}
+
+.event-block h1 {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    color: #FFFFFF;
+    margin-top: 60%;
+    border-bottom: 1px solid #FFFFFF;
+    padding-bottom: 5%;
+}
+
+.event-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.event-info p {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    /* identical to box height */
+    margin-top: 0;
+    padding-bottom: 5%;
+
+
+    color: #FFFFFF;
+}
